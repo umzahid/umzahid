@@ -8,7 +8,6 @@ I'm a Software Quality Assurance Engineer (SDET-1) specializing in Automation an
 - 🛠️ Some of the technologies and tools I work with include Java, Selenium WebDriver, Cucumber, Serenity, GitHub Actions, and API testing frameworks.
 - 🎓 I hold certifications in Java (TAU, HackerRank), Selenium 4 (TAU), Selenium WebDriver with Java (TAU), Cucumber with Serenity, GitHub Actions (TAU), API testing (TAU), and Screenplay.
 
-| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"> |      Java       |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png"> |      Maven      | `https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png"> |      JUnit      | `https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png` |

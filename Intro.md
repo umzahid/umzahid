@@ -11,7 +11,7 @@ I'm a Software Quality Assurance Engineer (SDET-1) specializing in Automation an
 ### Get in Touch
 
 - 📫 You can reach me via email at [aumair525@gmail.com](mailto:aumair525@gmail.com).
-- 🌐 Connect with me on [LinkedIn]([https://www.linkedin.com/in/umzahid/](https://www.linkedin.com/in/umairzahid2000/)).
+- 🌐 Connect with me on [LinkedIn]([https://www.linkedin.com/in/umairzahid2000/]).
 
 ### Fun Fact
 

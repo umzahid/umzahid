@@ -22,5 +22,5 @@ I love exploring new technologies and finding innovative ways to solve testing c
 
 ### GitHub Stats
 
-[![Umair Zahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=umzahid&count_private=true&show_icons=true&theme=dark)](ub.com/extremenetworks/web-controller-automation)
+[![Umair Zahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=umzahid&count_private=true&show_icons=true&theme=dark)](https://github.com/extremenetworks/web-controller-automation)
 

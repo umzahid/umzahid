@@ -1,4 +1,3 @@
-### https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png
 ### Hi there, I'm Umair Zahid! 👋
 
 I'm a Software Quality Assurance Engineer (SDET-1) specializing in Automation and Manual testing. I'm passionate about ensuring software quality through robust testing practices and automation. Here's a bit about what I'm currently working on and my areas of expertise:

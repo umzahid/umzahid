@@ -20,7 +20,4 @@ I'm a Software Quality Assurance Engineer (SDET-1) specializing in Automation an
 
 I love exploring new technologies and finding innovative ways to solve testing challenges!
 
-### GitHub Stats
-
-[![Umair Zahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=umzahid&count_private=true&show_icons=true&theme=dark)](https://github.com/extremenetworks/web-controller-automation)
 

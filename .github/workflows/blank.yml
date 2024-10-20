@@ -64,9 +64,10 @@ jobs:
       - name: Start ngrok for noVNC
         run: |
           wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-arm64.tgz
-          unzip ngrok-v3-stable-linux-arm64.tgz
+          tar -xzf ngrok-v3-stable-linux-arm64.tgz  # Use tar to extract
           ./ngrok authtoken ${{ secrets.NGROK_AUTH_TOKEN }}
-          ./ngrok http 6080
+          ./ngrok http 6080 &
+
 
       - name: Run tests on Android Emulator
         uses: reactivecircus/android-emulator-runner@v2

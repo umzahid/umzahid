@@ -55,10 +55,16 @@ jobs:
           nohup x11vnc -forever -usepw -create &  # Start VNC server
           nohup websockify --web /noVNC --wrap-mode ignore -- 6080 localhost:5900 &  # Start noVNC server
 
+      - name: Remove old ngrok
+        run: |
+          if [ -f /usr/local/bin/ngrok ]; then
+          sudo rm /usr/local/bin/ngrok
+          fi
+
       - name: Start ngrok for noVNC
         run: |
-          wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-v3-stable-linux-amd64.zip
-          unzip ngrok-v3-stable-linux-amd64.zip
+          wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-arm64.tgz
+          unzip ngrok-v3-stable-linux-arm64.tgz
           ./ngrok authtoken ${{ secrets.NGROK_AUTH_TOKEN }}
           ./ngrok http 6080
 

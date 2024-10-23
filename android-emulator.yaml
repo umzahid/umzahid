@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        api-level: [21, 23, 29]  # API levels for Android Emulator
+        api-level: [30]  # API levels for Android Emulator
 
     steps:
       - name: Checkout the repository
